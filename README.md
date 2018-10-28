@@ -1,4 +1,4 @@
-# ISS Current Location with Emitter
+# Creating Emitter Cluster
 
 This repository and the associated video shows you how to create a 2-node emitter cluster which is running on the same machine, without any virtualisation.
 
